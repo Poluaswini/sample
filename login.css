@@ -1,0 +1,24 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 75px;
+    
+
+.container{
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 20px solid #ccc;
+    border-radius: 50px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-top: 10px;
+    background-image: url('profile.png');
+    background-size: 50px; /* Adjust the size of the logo */
+    background-position: 20px 35px; /* Position the logo */
+    background-repeat: no-repeat;
+    padding-left: 80px;
+}
+.button{
+    margin-top:10px;
+}
+}

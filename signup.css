@@ -1,0 +1,48 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0%;
+    padding: 75px;
+    
+
+.container{
+    width: 300px;
+    padding: 30px;
+    margin: auto;
+    border: 200px snow ;
+    margin-top: 20px;
+    box-shadow: 0 0 10px rgba(188, 170, 170, 0.1);
+    background-image: url(signupb1.jpeg);
+
+}
+.button{
+    text-align: center;
+    margin-top: 10px;
+    
+}
+h2{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-small;
+}
+input[type=text] {
+    width: 100%;
+    padding: 8px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    margin-top: 25px;
+    
+}
+.google-button {
+    background-image: url('google.png'); /* Replace 'google-logo.png' with the path to your Google logo image */
+    background-size: 20px 20px; /* Adjust the size of the Google logo as needed */
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    padding-left: 40px; /* Adjust padding to make space for the logo */
+}
+.facebook-button {
+    background-image: url('facebook.png'); /* Replace 'google-logo.png' with the path to your Google logo image */
+    background-size: 20px 20px; /* Adjust the size of the Google logo as needed */
+    background-position: 10px center;
+    background-repeat: no-repeat;
+    padding-left: 40px; /* Adjust padding to make space for the logo */
+}
+}
